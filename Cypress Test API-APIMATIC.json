@@ -1,6 +1,6 @@
 {
   "AuthenticateEndpointsWith": [],
-  "Name": "Cypress Test API",
+  "Name": "Cypress Testtt API",
   "BaseUri": "http://example.com",
   "ServerConfiguration": {
     "UseParent": false,
