@@ -8,7 +8,7 @@
     "DefaultServer": "default",
     "Environments": [
       {
-        "Name": "production",
+        "Name": "productionn",
         "Servers": [
           {
             "Name": "default",
