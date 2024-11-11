@@ -4,7 +4,7 @@
   "BaseUri": "http://example.com",
   "ServerConfiguration": {
     "UseParent": false,
-    "DefaultEnvironment": "production",
+    "DefaultEnvironment": ,
     "DefaultServer": "default",
     "Environments": [
       {
