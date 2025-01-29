@@ -2,7 +2,7 @@
   "openapi": "3.1.0",
   "info": {
     "title": "Cypress Test API",
-    "description": "This is a sample API to demonstrate an sOpenAPI spec with multiple endpoints and a custom model.",
+    "description": "This is a sample API to demoddnstrate an sOpenAPI spec with multiple endpoints and a custom model.",
     "contact": {},
     "version": "1.0.0"
   },
