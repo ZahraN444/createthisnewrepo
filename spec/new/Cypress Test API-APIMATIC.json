@@ -1,6 +1,7 @@
 {
   "openapi": "3.1.0",
   "info": {
+
     "title": "Neutrino API",
     "description": "The general-purpose API",
     "contact": {
@@ -9,6 +10,7 @@
       "email": "tech@neutrinoapi.com"
     },
     "version": "3.6.4"
+
   },
   "jsonSchemaDialect": "https://json-schema.org/draft/2020-12/schema",
   "servers": [
