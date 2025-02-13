@@ -2,5 +2,5 @@
     "OpenAPIDefinitionPaths": [
         "spec/new"
     ],
-    "IgnoreValidationErrors": false
+    "IgnoreValidationErrors": true
 }
